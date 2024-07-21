@@ -1,10 +1,10 @@
-module fileserver
+module github.com/atterpac/wails-plugin-fileserver
 
 go 1.22.4
 
 toolchain go1.22.5
 
-require github.com/wailsapp/wails/v3 v3.0.0-alpha.4.0.20240719224052-f94ecaba848d
+require github.com/wailsapp/wails/v3 v3.0.0-alpha.4
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
