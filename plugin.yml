@@ -1,0 +1,8 @@
+# This is the plugin definition file for the "fileserver" plugin.
+Name: "fileserver"
+Description: "Example plugin"
+Author: ""
+Version: ""
+Website: ""
+Repository: ""
+License: ""
