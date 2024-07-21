@@ -1,4 +1,4 @@
-module github.com/atterpac/wails-plugin-fileserver
+module fileserver
 
 go 1.22.4
 
